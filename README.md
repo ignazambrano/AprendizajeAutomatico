@@ -1,2 +1,4 @@
 # AprendizajeAutomatico
 Repositorio para la clase de Aprendizaje Automático Inicial
+
+Soy José Ignacio Zambrano, tengo 22 años. Desde siempre he tenido interés por la tecnología gracias a series o películas que veía de niño, como Back to the Future o Mazinger Z. Por ello, y por mi preferencia por los números sobre las letras, sabía que tenía que seguir alguna ingeniería. Estudié en Argentina, en la UBA, la carrera de Ingeniería en Informática, pero por circunstancias de la vida no pude terminarla y regresé al Ecuador, donde vi que abrieron la carrera de Ciencia de Datos en la PUCE. Esta carrera me había llamado la atención desde el colegio, ya que vi algunos videos en YouTube sobre “Day in the life of a data scientist” y me gustó lo que vi, así que entré a esta carrera. Aprender Aprendizaje Automático sin duda me va a ayudar a entender las bases de una tecnología que ya hace cosas increíbles y que aún tiene mucho por mejorar.
